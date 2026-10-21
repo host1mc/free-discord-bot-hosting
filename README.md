@@ -98,3 +98,7 @@ The [Discord community](https://discord.gg/RNVJeMKDAV) is the support desk. The 
 - **Discord:** https://discord.gg/RNVJeMKDAV
 
 **Topics:** free bot hosting · free Discord bot hosting · Discord bot hosting · Telegram bot hosting · 24/7 bot hosting · Python Discord bot hosting · Node.js Discord bot hosting · bot hosting panel · free hosting 2026
+
+---
+
+If ENDHOST helped you find free bot hosting, **star this repo** — it helps other bot developers find it.
