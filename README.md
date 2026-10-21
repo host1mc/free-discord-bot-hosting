@@ -6,6 +6,12 @@ ENDHOST is free bot hosting for Discord and Telegram. Upload your code, pick a r
 
 [**Start hosting free →**](https://endevil.live) · [Setup guide](https://endevil.live/help) · [Panel tour](https://endevil.live/tour) · [Discord](https://discord.gg/RNVJeMKDAV)
 
+## A look inside
+
+| Homepage | Panel tour |
+|:---:|:---:|
+| ![ENDHOST homepage](screenshots/home.png) | ![ENDHOST panel tour](screenshots/panel-tour.png) |
+
 ## What you can host
 
 **Discord bots** — discord.py, discord.js, nextcord, disnake, Sapphire, Eris, or any library that runs on a supported runtime.
